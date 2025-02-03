@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.lattice-marketplace]
+path = "contracts/lattice-marketplace.clar"
+depends_on = []
+
 [contracts.lattice-nft]
 path = "contracts/lattice-nft.clar"
 depends_on = []
